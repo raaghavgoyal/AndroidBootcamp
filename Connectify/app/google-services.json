@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "181112197992",
+    "firebase_url": "https://connectify-dba7d.firebaseio.com",
+    "project_id": "connectify-dba7d",
+    "storage_bucket": "connectify-dba7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181112197992:android:0c587c02a5c45b20",
+        "android_client_info": {
+          "package_name": "com.example.aditi.connectify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181112197992-cc7s9u5m82o81nbgkoks3gh11oit8qug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aditi.connectify",
+            "certificate_hash": "340202c9a51c8fa8579d685ed26b181e32a5451d"
+          }
+        },
+        {
+          "client_id": "181112197992-2fuvonn2ecg5g9pn7gju28dpkgm5gmev.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "181112197992-2fuvonn2ecg5g9pn7gju28dpkgm5gmev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNLv9ay4OhPyi4TY0lI23IcZyFxKReIg4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181112197992-2fuvonn2ecg5g9pn7gju28dpkgm5gmev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
